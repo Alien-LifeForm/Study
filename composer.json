@@ -9,8 +9,6 @@
       "email": "private.radkonv@gmail.com"
     }
   ],
-  "require": {
-  },
   "autoload": {
     "psr-4": {
       "ishop\\": "wendor/ishop",
