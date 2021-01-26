@@ -1,0 +1,21 @@
+{
+  "name": "vendor_name/Study",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "ALF",
+      "email": "private.radkonv@gmail.com"
+    }
+  ],
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "ishop\\": "wendor/ishop",
+      "app\\": "app"
+    }
+  },
+  "require": {}
+}
