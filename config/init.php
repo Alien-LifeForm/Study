@@ -10,4 +10,4 @@ define("CASHE", ROOT . '/tmp/cadhe');
 define("CONFIG", ROOT . '/config');
 define("LAYOUT", 'default');
 
-echo $app_path = "http://{$_SERVER['HTTP_HOST']}{$_SERVER['HTTP_SELF']}";
+echo $app_path = "http://{$_SERVER['HTTP_HOST']}{$_SERVER['PHP_SELF']}";
